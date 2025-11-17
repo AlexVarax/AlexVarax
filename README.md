@@ -19,7 +19,6 @@
 - Финалист Всероссийской олимпиады по математике, информатике, физике и химии «ALхимия будущего» от Русал 
 - Участвовал в Тренировках по алгоритмам 5.0 и 7.0
 - Участвовал в олимпиадах: Yandex Cub23, «PROD» и ВсОШ по информатике 2022
-
 <div align="center" color="black"> 
   <a href="https://github.com/AlexVarax/AlexVarax/tree/main/Progress" alt="Сертификаты">
       <img src="https://github.com/AlexVarax/AlexVarax/blob/main/dir.png" width="200">
