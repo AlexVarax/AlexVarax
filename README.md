@@ -28,10 +28,10 @@
 </div>
 
 ### Стек технологий
-- C#
-- Python
-- C++
-- PascalABC
+- C# (middle)
+- Python (middle+)
+- C++ (junior)
+- PascalABC (middle)
 - HTML и CSS
 - SQL
 - Оптимизация алгоритмов
