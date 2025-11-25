@@ -56,7 +56,7 @@
   <a href="https://t.me/+EuP2q54z4-s0MGIy" alt="Сертификаты">
       <img src="https://github.com/AlexVarax/AlexVarax/blob/main/memphis.user.png" width="120">
       <br>
-    Подробнее о софтах
+    Подробнее о софтах<br>
     (тг канал)
   </a>
 </div>
