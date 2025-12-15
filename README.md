@@ -33,7 +33,6 @@
 - C++ (junior)
 - PascalABC (middle)
 - HTML и CSS
-- SQL
 - Оптимизация алгоритмов
 - Docker
 - mDNS
