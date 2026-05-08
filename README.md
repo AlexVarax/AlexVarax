@@ -32,16 +32,11 @@
 </div>
 
 ### Стек технологий
-- C# (middle)
-- Python (middle+)
-- C++ (junior)
+# - C# (middle)
+# - Python (middle+)
+# - C++ (middle)
 - PascalABC (middle)
-- HTML и CSS
-- Оптимизация алгоритмов
-- Docker
-- mDNS
-- Стеганография
-- Системная аналитика
+- Фронтенд
 
 ### Перспективные направления
 - ML
