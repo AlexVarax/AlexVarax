@@ -51,7 +51,7 @@
 <div align="center" color="black"> 
   <br>
   
-  <a href="https://t.me/AlexVarax" alt="Сертификаты">
+  <a href="https://t.me/AlexeyVaraxin" alt="Сертификаты">
       <img src="https://github.com/AlexVarax/AlexVarax/blob/main/memphis.user.png" width="120">
       <br>
     Подробнее о софтах<br>
