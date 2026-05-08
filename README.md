@@ -32,9 +32,9 @@
 </div>
 
 ### Стек технологий
-# - C# (middle)
-# - Python (middle+)
-# - C++ (middle)
+- C# (middle)
+- Python (middle+)
+- C++ (middle)
 - PascalABC (middle)
 - Фронтенд
 
